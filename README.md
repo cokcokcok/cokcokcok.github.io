@@ -1,10 +1,10 @@
 # posting 방법
----
+
 ## blog
 ~~~
 ---
 title: 제목 입력
-layout: 화면의 유형
+layout: post
 date: 포스팅 날짜
 image: 이미지 경로 입력
 headerImage: 헤드 라인에 이미지르 보여줄지 여부 결정(T/F)
@@ -12,11 +12,30 @@ tag: 포함 하고 있는 내용의 요소 입력
 ex)
 - markdown
 - elements
-category: 글의 유형이 어떤것인가?
+category: blog
 author: 작성자의 이름 등록
 description:
-이하 블로그 내용 삽입
 ---
+포스팅 내용 삽입
+~~~
+
+## projects
+~~~
+---
+title: 제목 입력
+layout: post
+date: 포스팅 날짜
+image: 이미지 경로 입력
+headerImage: 헤드 라인에 이미지르 보여줄지 여부 결정(T/F)
+tag: 포함 하고 있는 내용의 요소 입력
+ex)
+- markdown
+- elements
+category: project
+author: 작성자의 이름 등록
+description:
+---
+포스팅 내용 삽입
 ~~~
 
 <!-- <p align="center">
