@@ -1,0 +1,11 @@
+---
+title: "test"
+layout: pos
+date: 2018-07-03
+tag:
+- test
+category: blog
+author: EGDev
+---
+
+# hi test blog
