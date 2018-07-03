@@ -18,6 +18,7 @@ description:
 ---
 포스팅 내용 삽입
 ~~~
+> file 형식 : YYYY-MM-DD-TitleName.md
 
 ## projects
 ~~~
@@ -37,6 +38,7 @@ description:
 ---
 포스팅 내용 삽입
 ~~~
+> file 형식 : YYYY-MM-DD-TitleName.md
 
 ## 링크
 **인라인 링크**
