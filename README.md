@@ -40,25 +40,25 @@ description:
 
 ## 링크
 **인라인 링크**
-마크다운 | 결과
+|마크다운 | 결과|
 |:-------:|:----:|
 \[google](https://google.co.kr) | [google](https://google.co.kr)
 **URI**
-마크다운 | 결과
+|마크다운 | 결과|
 |:-------:|:----:|
 \<https://google.co.kr> | <https://google.co.kr>
 **내부 링크**
-마크다운 | 결과
+|마크다운 | 결과|
 |:-------:|:----:|
 \[blog](#blog) | [blog](#blog)
 
 ## 이미지 삽입
 **인라인 이미지**
-마크다운 | 결과
+|마크다운 | 결과|
 |:-------:|:----:|
 \!\[사진 설명](/assets/images/markdown.jpg) | ![사진](/assets/images/markdown.jpg)
 **링크 이미지**
-마크다운 | 결과
+|마크다운 | 결과|
 |:-------:|:----:|
 \!\[사진설명](https://avatars1.githubusercontent.com/u/9919?s=200&v=4) | ![github](https://avatars1.githubusercontent.com/u/9919?s=200&v=4)
 
