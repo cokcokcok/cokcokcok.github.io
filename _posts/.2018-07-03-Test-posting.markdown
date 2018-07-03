@@ -1,11 +1,16 @@
 ---
-title: "test"
-layout: pos
-date: 2018-07-03
+title: "Test Blog Posting"
+layout: post
+date: 2018-07-03 13:15
+image: /assets/images/markdown.jpg
+headerImage: true
 tag:
-- test
+- markdown
+- elements
+star: true
 category: blog
 author: EGDev
+description: Markdown summary with different options
 ---
 
-# hi test blog
+# hi 
