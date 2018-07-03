@@ -62,7 +62,7 @@ description:
 
 |마크다운 | 결과|
 |:-------:|:----:|
-\!\[사진 설명](/assets/images/markdown.jpg) | ![사진](/assets/images/markdown.jpg)
+\!\[사진 설명](/assets/images/jekyll-logo-light-solid.png) | ![사진](/assets/images/jekyll-logo-light-solid.png)
 
 **링크 이미지**
 
