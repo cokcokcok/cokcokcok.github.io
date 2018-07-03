@@ -44,12 +44,13 @@ description:
 |마크다운 | 결과|
 |:-------:|:----:|
 \[google](https://google.co.kr) | [google](https://google.co.kr)
-{: .table}
+
 **URI**
 
 |마크다운 | 결과|
 |:-------:|:----:|
 \<https://google.co.kr> | <https://google.co.kr>
+
 **내부 링크**
 
 |마크다운 | 결과|
@@ -62,6 +63,7 @@ description:
 |마크다운 | 결과|
 |:-------:|:----:|
 \!\[사진 설명](/assets/images/markdown.jpg) | ![사진](/assets/images/markdown.jpg)
+
 **링크 이미지**
 
 |마크다운 | 결과|
