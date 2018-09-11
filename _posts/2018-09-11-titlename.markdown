@@ -1,15 +1,13 @@
 ---
-title: 제목 입력
+title: titlename
 layout: post
-date: 포스팅 날짜
-image: 이미지 경로 입력
-headerImage: 헤드 라인에 이미지르 보여줄지 여부 결정(T/F)
-tag: 포함 하고 있는 내용의 요소 입력
-ex)
+date: 2018-09-11
+headerImage: F
+tag:
 - markdown
 - elements
 category: project
-author: 작성자의 이름 등록
+author: egdev
 description:
 ---
 
