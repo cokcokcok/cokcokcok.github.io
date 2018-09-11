@@ -1,6 +1,6 @@
 # main text of home
-name: EGDev
-bio: E.G Developer
+name: John Doe
+bio: A Man who travels the world eating noodles
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,15 +8,15 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.png
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://cokcokcok.github.io
+url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,31 +34,31 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: mokey409
-# twitter: mytwitter
+facebook: myfacebook
+twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: cokcokcok
+github: mygithub
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-# medium: medium
+medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: egdev.sh@gmail.com
+email: myemail@gmail.com
 
 authors:
-    egdev:
-        name: EGDev
-        bio: E.G Developer
+    johndoe:
+        name: John Doe
+        bio: A Man who travels the world eating noodles
         external-image: false
-        picture: assets/images/profile.png
+        picture: assets/images/profile.jpg
         twitter: johndoe
     jamesfoster:
         name: James Foster
